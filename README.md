@@ -1,4 +1,10 @@
-### Hi there 👋
+Ooi, tudo jóia?
+
+let name: Marcelo;
+let age: 24;
+let class1: Técnico em Desenvolvimento de Sistemas; // Em formação
+let class2 = Bacharel Sistemas da informação; //Em formação 
+//
 
 <!--
 **MVMaia/MVMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
