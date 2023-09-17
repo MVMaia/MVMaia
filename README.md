@@ -1,4 +1,4 @@
-//Ooi, tudo jóia?
+//Oi, tudo jóia?
 
 let name: Marcelo;
 
