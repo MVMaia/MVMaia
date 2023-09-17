@@ -1,12 +1,14 @@
 //Oi, tudo jóia?
 
-let name: Marcelo;
+let name: "marcelo";
 
 let age: 24;
 
-let class1: Técnico em Desenvolvimento de Sistemas; // Em formação
+let class1: "Técnico em Desenvolvimento de Sistemas"; // Em formação
 
-let class2 = Bacharel Sistemas da informação; //Em formação 
+let class2 = "Bacharel Sistemas da informação"; //Em formação 
+
+Let newLanguage: "C#";
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
