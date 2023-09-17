@@ -1,7 +1,6 @@
 //Ooi, tudo jóia?
 
 let name: Marcelo;
-
 let age: 24;
 
 let class1: Técnico em Desenvolvimento de Sistemas; // Em formação
