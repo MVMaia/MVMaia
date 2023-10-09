@@ -1,10 +1,10 @@
 //Oi, tudo jóia?
 
-let name: "marcelo";
+let name = "marcelo";
 
-let age: 24;
+let age = 24;
 
-let class1: "Técnico em Desenvolvimento de Sistemas"; // Em formação
+let class1 = "Técnico em Desenvolvimento de Sistemas"; // Em formação
 
 let class2 = "Bacharel Sistemas da informação"; //Em formação 
 
