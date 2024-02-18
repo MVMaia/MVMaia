@@ -8,6 +8,9 @@ Olá, Bem Vindo/a ao Meu GitHub
 ->Desenvolvimento WEB/DESKTOP...<br>
 ->Aceito Freelances<br>
 
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+Você
+
 
 <!--
 **MVMaia/MVMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
