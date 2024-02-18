@@ -8,7 +8,7 @@ Olá, Bem Vindo/a ao Meu GitHub
 ->Desenvolvimento WEB/DESKTOP...<br>
 ->Aceito Freelances<br>
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+<img src="[ https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg](https://icons8.com.br/icon/108784/javascript)" width="50px">
 
 
 <!--
