@@ -1,6 +1,12 @@
 Olá, Bem Vindo/a ao Meu GitHub
 
 ->Programador Iniciante
+->Técnico em Desenvolvimento de Sistemas
+->Cursando Bacharel em Sistemas da Informação
+->Dominío de C#,HTML/CSS/JS,PHP
+->Foco em BackEnd, mas também trabalho com Frontend
+->Desenvolvimento WEB/DESKTOP...
+->Aceito Freelances
 
 
 <!--
