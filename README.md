@@ -1,12 +1,7 @@
 <h1><strong>Olá,meu nome é Marcelo!<br>Bem Vindo/a ao Meu GitHub!</strong></h1><hr>
 
-->Programador Iniciante<br>
-->Técnico em Desenvolvimento de Sistemas<br>
-->Cursando Bacharelado em Sistemas da Informação<br>
-->Dominío de C#,HTML/CSS/JS,PHP<br>
-->Foco em BackEnd, mas também trabalho com Frontend<br>
-->Desenvolvimento WEB/DESKTOP...<br>
-->Aceito Freelances<hr>
+Entrando nas carreiras de Desenvolvimento de Software e Data Science.
+Técnico em Desenvolvimento de Sistemas com conhecimento prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mvmMaiaCsharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
