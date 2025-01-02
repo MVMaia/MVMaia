@@ -1,7 +1,11 @@
 <h1><strong>Olá,meu nome é Marcelo!<br>Bem Vindo/a ao Meu GitHub!</strong></h1><hr>
 
-Entrando nas carreiras de Desenvolvimento de Software e Data Science.
-Técnico em Desenvolvimento de Sistemas com conhecimento prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL
+• Entrando nas carreiras de Desenvolvimento de Software e Data Science.
+• Técnico em Desenvolvimento de Sistemas com conhecimento teórico e prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL, CRUD e Kanban.
+• Atualmente estou no 3° período em Sistemas da Informação com conhecimento teórico em prático em C++.
+• Cursando um curso de 80 horas de Java e Orientação a Objetos pela Udemy.
+• Buscando me especializar em Linguagens com foco em Orientação a Objetos(Java e C#), tornando-as minhas linguagens principais.
+• Também fazendo cursos de Estatística e Data Science, utilizando Python, e futuramente, R.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mvmMaiaCsharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
