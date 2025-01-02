@@ -2,7 +2,7 @@
 
 • Entrando nas carreiras de Desenvolvimento de Software e Data Science.<br>
 • Técnico em Desenvolvimento de Sistemas com conhecimento teórico e prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL, CRUD e Kanban.<br>
-• Atualmente estou no 3° período em Sistemas da Informação com conhecimento teórico em prático em C++.<br>
+• Atualmente estou no 3° período em Sistemas da Informação com conhecimento teórico e prático em C++.<br>
 • Cursando um curso de 80 horas de Java e Orientação a Objetos pela Udemy.<br>
 • Buscando me especializar em Linguagens com foco em Orientação a Objetos(Java e C#), tornando-as minhas linguagens principais.<br>
 • Também fazendo cursos de Estatística e Data Science, utilizando Python, e futuramente, R.<br>
