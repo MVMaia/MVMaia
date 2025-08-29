@@ -1,11 +1,10 @@
 <h1><strong>Olá,meu nome é Marcelo!<br>Bem Vindo/a ao Meu GitHub!</strong></h1><hr>
 
-• Entrando nas carreiras de Desenvolvimento de Software e Data Science.<br>
-• Técnico em Desenvolvimento de Sistemas com conhecimento teórico e prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL, CRUD e Kanban.<br>
-• Atualmente estou no 3° período em Sistemas da Informação com conhecimento teórico e prático em C++.<br>
-• Cursando um curso de 80 horas de Java e Orientação a Objetos pela Udemy.<br>
-• Buscando me especializar em Linguagens com foco em Orientação a Objetos(Java e C#), tornando-as minhas linguagens principais.<br>
-• Também fazendo cursos de Estatística e Data Science, utilizando Python, e futuramente, R.<br>
+• Entrando na carreira de Desenvolvimento de Software.<br>
+• Técnico em Desenvolvimento de Sistemas com conhecimento teórico e prático em HTML/CSS/JS/PHP, C#, Python, MySQL, PostGreeSQL.<br>
+• Atualmente estou no 4° período em Sistemas da Informação com conhecimento teórico e prático em C++ e Java.<br>
+• Fazendo Cursos de Java e Orientação a Objetos pela Udemy.<br>
+• Estagiando em Middleware.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mvmMaiaCsharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -16,7 +15,7 @@
 <hr>
 <div> 
 
-  <a href="https://www.instagram.com/marcelo.maia19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--><a href="https://www.instagram.com/marcelo.maia19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mvmaia99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-maia-520639288/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
